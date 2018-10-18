@@ -1,0 +1,19 @@
+img {
+    height: 24px;
+}
+img:hover {
+    width: 24px;
+}
+
+
+
+.display {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+ .controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
